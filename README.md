@@ -13,6 +13,9 @@ Call-center Excel project interactive Dashboard with pivot tables  and visuals
 - [References](#references)
 ## Project Overview
 This data analysis project aims to provide insights into call center performance over a period of time. By analyzing various aspect of the call center, we seek to identify trends, make data-driven recommendation and gain a deeper understanding of the general performance over time.
+
+![Call center Excel dashboard](https://github.com/user-attachments/assets/8515cee9-7794-434d-b294-b07cf8cf7fd0)
+
 ## Data Sources
 Update Call-Center: The Primary data set used for this Analysis is “Call-Center Excel Worksheet (.xlsx)”. file containing detailed information about call-center.
 ## Tools
